@@ -9,4 +9,6 @@ command_dict = {
 
 command_base = command.CommandReader("./help.json", command_dict)
 command_base.run("this", ["test"])
-command_base.run("help", [""])
+command_base.run("foo", ["bar"])
+command_base.run("quit", [])
+command_base.run("help", ["help"])
