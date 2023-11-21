@@ -15,6 +15,7 @@
 - Inside that folder, create a json file and name it whatever you like (recommended is 'help.json')
 - Copy [default.json](https://github.com/Nathan3-14/PythonCommandReader/blob/main/default.json) into your new file
 - Add any function you wish to add following the template
+- Note, the other files will not be used but will be automatically replaced by git upon an update to the interpreter
 
 
 ## Usage
