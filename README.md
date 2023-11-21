@@ -5,7 +5,7 @@
 ## Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Code Snippets](#code-snippets)
+- [Code Snippets](#../../code-snippets)
 
 
 ## Installation
