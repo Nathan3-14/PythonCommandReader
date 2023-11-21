@@ -10,7 +10,7 @@
 		},
         	"template": {
            		 "description": "template",
-            	"usage": "template <required> (optional) <req1 | req2>"
+            		"usage": "template <required> (optional) <req1 | req2>"
         	}
 	}
 }
