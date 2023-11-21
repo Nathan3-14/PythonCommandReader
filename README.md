@@ -1,11 +1,11 @@
 # PythonCommandReader
 
+[Wiki](https://github.com/Nathan3-14/PythonCommandReader/wiki)
 
 ## Contents
 - [Installation](#installation)
 - [Usage](#usage)
 - [Code Snippets](#code-snippets)
-- [Wiki Version](https://github.com/Nathan3-14/PythonCommandReader/wiki)
 
 
 ## Installation
