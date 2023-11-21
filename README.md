@@ -1,6 +1,6 @@
 # PythonCommandReader
 
-[Wiki](https://github.com/Nathan3-14/PythonCommandReader/wiki)
+## [Wiki](https://github.com/Nathan3-14/PythonCommandReader/wiki)
 
 ## Contents
 - [Installation](#installation)
