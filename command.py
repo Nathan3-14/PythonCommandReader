@@ -1,5 +1,6 @@
 import os
 import json
+from rich import print
 
 class CommandReader:
     def __init__(self, command_path: str, command_dict: list):
@@ -15,9 +16,9 @@ class CommandReader:
             if self.recent_command == None:
                 raise Exception("Check your function, make sure it returns a boolean")
             if not self.recent_command:
-                print(f"Invalid function syntax. Run 'help {command_name}' for more information")
+                print(f"[red]Err:[/red] Invalid function syntax. Run 'help {command_name}' for more information")
         except KeyError:
-            print(f"Unrecognised function run 'help' for a list of functions")
+            print(f"[red]Err:[/red] Unrecognised function run 'help' for a list of functions")
 
 
     def help(self, command_name: str):
