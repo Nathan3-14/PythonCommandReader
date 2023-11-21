@@ -4,6 +4,7 @@
 ## Contents
 - [Installation](#installation)
 - [Usage](#usage)
+- [Code Snippets](#code-snippets)
 
 
 ## Installation
