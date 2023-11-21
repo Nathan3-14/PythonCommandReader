@@ -17,7 +17,7 @@
 
 
 ## Usage
-- Import the module ([1](../wiki/code-snippets/#import)) at the top of your script
+- Import the module ([1](../../wiki/code-snippets/#import)) at the top of your script
 - Add a 'command_dict' dictionary to store all your functions ([2](code-snippets/#command-dictionary))
 - Create your command interpreter by assigning a variable with the CommandReader class ([3](code-snippets/#interpreter-variable))
 - To run a command, use the run command, built in to the class ([4](code-snippets/#run-command))
