@@ -12,6 +12,8 @@ class CommandReader:
     def run(self, command_name: str, args: list):
         try:
             self.recent_command = self.commands[command_name](args)
+            if self.recent_command == None:
+                raise Exception("Check your function, make sure it returns a boolean")
             if not self.recent_command:
                 print(f"Invalid function syntax. Run 'help {command_name}' for more information")
         except KeyError:
