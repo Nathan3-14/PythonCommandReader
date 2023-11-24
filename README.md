@@ -24,5 +24,5 @@
 - Create your command interpreter by assigning a variable with the CommandReader class ([3](../../wiki/code-snippets/#interpreter-variable))
 - To run a command, use the run command, built in to the class ([4](../../wiki/code-snippets/#run-command))
 For more information see the [Wiki](../../wiki/Setup)
-<br>
+<br/>
 [test](../../wiki)
