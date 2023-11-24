@@ -23,7 +23,7 @@ jobs:
           - name: Sync Wiki
             uses: joeizzard/action-wiki-sync@master
             with:
-                username: nathan3014
+                username: nathan3-14
                 access_token: ${{ secrets.GITHUB_TOKEN }}
                 wiki_folder: docs
                 commit_username: 'Example Name'
