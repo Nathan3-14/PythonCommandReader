@@ -25,3 +25,4 @@
 - To run a command, use the run command, built in to the class ([4](../../wiki/code-snippets/#run-command))
 <br>
 For more information see the [wiki](../../wiki/Setup)
+[test](../../wiki)
